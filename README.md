@@ -14,7 +14,7 @@ A countdown timer project built using HTML, CSS and JavaScript.
 - JavaScript
 
 ## Live Demo
-https://Shubham-code05.github.io/countdown-timer/
+ https://shubham-code05.github.io/countdown-timer/
 
 ## Screenshots
 
